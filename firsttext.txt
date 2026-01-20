@@ -1,0 +1,2 @@
+This text is used to Learn Git.
+From time to time i will add stuff here.
